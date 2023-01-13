@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **msakilx/msakilx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->tarmux
+git clone https://github.com/msakilx/msakilx/edit/main/README.md
+Cd msakix
+python msakil.py
