@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tarmux
+git clone https://github.com/msakilx/msakilx/edit/main/README.md
+cd msakilx
+python msakil.py
